@@ -1,0 +1,1 @@
+import{_ as c,u as a,a as n,o as u,c as _}from"./index.5faa4925.js";const p={__name:"index",setup(i){const e=a(),t=n(),{params:s,query:r}=e,{path:o}=s;return t.replace({path:"/"+o,query:r}),(d,l)=>(u(),_("div"))}},x=c(p,[["__file","/Users/leven/product/RuoYi-Vue3/src/views/redirect/index.vue"]]);export{x as default};
