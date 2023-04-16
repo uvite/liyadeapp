@@ -1,1 +1,0 @@
-import{_ as s,z as _,r as o,d as n,o as t,c,e as a}from"./index.5faa4925.js";const d={class:"app-container home"},r=_({name:"Index"}),i=Object.assign(r,{setup(p){return o("3.8.5"),(l,u)=>{const e=n("el-divider");return t(),c("div",d,[a(e)])}}}),m=s(i,[["__scopeId","data-v-b301384e"],["__file","/Users/leven/product/RuoYi-Vue3/src/views/index.vue"]]);export{m as default};
